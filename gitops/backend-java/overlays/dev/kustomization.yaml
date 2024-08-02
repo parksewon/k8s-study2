@@ -6,7 +6,7 @@ resources:
 
 images:
   - name: eduazureregistry0802.azurecr.io/backend-java # 이미지 주소 변경필요
-    newTag: main-20240712064746
+    newTag: main-20240802043439
 
 commonLabels:
   app: backend-java
